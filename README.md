@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop](./ASSETS/screenshot/screenshot-desktop.png)
+![Desktop](./ASSETS/screenshot/)
 
 ### Links
 
@@ -48,7 +48,7 @@ Users should be able to:
 ### Useful resources
 
 - [HTML](https://www.w3schools.com/html/default.asp) - This helped me for HTML tags
-- [CSS](https://www.w3schools.com/css/default.asp)- This helped me it CSS
+- [CSS](https://www.w3schools.com/css/default.asp) - This helped me it CSS
 
 ## Author
 
