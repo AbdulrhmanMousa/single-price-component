@@ -30,7 +30,7 @@ ul,li {
 :root {
 
     --primary-cyen-0: hsl(179, 62%, 43%);
-    --primary-cyen-1: hsl(179, 75%, 43%);
+    --primary-cyen-1: hsl(179.49, 47.37%, 51.57%);
     --primary-bright-yellow: hsl(71, 73%, 54%);
 
     --neutral-white: hsl(0, 0%, 100%);
@@ -46,7 +46,7 @@ body {
     align-items: center;
     width: 100%;
     min-height: 100vh;
-    background-color: var(--neutral-gray);
+    background-color: hsl(208, 45.45%, 93.53%);
     font-family: 'Karla', sans-serif;
 }
 
